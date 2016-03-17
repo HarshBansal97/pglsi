@@ -41,3 +41,5 @@ FROM hackers_archive NATURAL JOIN
   LIMIT 50) 
  top_similarities;
 ```
+
+There is a sample model and sample data available under github releases.
