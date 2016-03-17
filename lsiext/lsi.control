@@ -1,0 +1,5 @@
+comment = 'Latent semantic indexing extension'
+default_version = '1.0.0'
+module_pathname = '$libdir/lsi'
+relocatable = true
+superuser = true
